@@ -1,5 +1,7 @@
 # TextifyPro
 
+Visit Demo: https://textify-pro.netlify.app/
+
 TextifyPro is a simple yet powerful web-based text manipulation tool that offers various functionalities such as text case conversion, email validation, text formatting, and translation. The goal is to provide users with a quick and easy way to transform and manage text for different purposes.
 
 ## Features
